@@ -20,10 +20,9 @@ author: Sabrina Gerke
 
 navbar-links:
   About Me: "aboutme"
+  SRS-Handbuch: "srs-handbook"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  LinkedIn: "https://www.linkedin.com/in/sabrinagerke/"
+    - Systematic Reviews @ UB Mainz: "https://www.ub.uni-mainz.de/de/systematische-reviews-fuer-medizin-und-verwandte-faecher"
 
 ################
 # --- Logo --- #
@@ -49,7 +48,7 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "s.gerke@ub.uni-mainz.de"
+#  email: "name@domain.something"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: username
   github: librarybarbie
@@ -101,7 +100,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://librarybarbie.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
