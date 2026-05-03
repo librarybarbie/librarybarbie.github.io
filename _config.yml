@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sabrina Gerke
+title: Startseite
 
 # Your name to show in the footer
 author: Sabrina Gerke
@@ -19,10 +19,11 @@ author: Sabrina Gerke
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  SRS-Handbuch: "srs-handbook"
-  Resources:
+  Über mich: "aboutme"
+  Handbuch: "srs-handbook"
+  Links:
     - Systematic Reviews @ UB Mainz: "https://www.ub.uni-mainz.de/de/systematische-reviews-fuer-medizin-und-verwandte-faecher"
+    - Termin buchen: "Platzhalter"
 
 ################
 # --- Logo --- #
