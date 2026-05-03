@@ -1,16 +1,47 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Mein Werdegang
+subtitle: Mit Neugier und Sprache auf der Suche nach Informationen und Wissen
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Karriere
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+2017–2019: Marketing & PR Specialist für Videospiele
 
-What else do you need?
+2019–2020: Game Publishing Specialist
 
-### My story
+2020–2022: Game Growth Manager
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+2022–2023: Game Designerin
+
+2023–2024: Freiberufliche Übersetzerin (KO -> EN, DE)
+
+2024–2025: Bibliotheksmitarbeiterin
+
+Seit März 2025: Informationsspezialistin
+
+
+## Ausbildung
+
+2009–2013: Bachelor of Arts in Populärer Musik und Medien, Universität Paderborn
+
+2015-2017: Master of Arts in Interdisciplinary Program of Studies in Arts, Sungkyunkwan University, Seoul (Republik Korea)
+
+Seit März 2025: MALIS (Master in Library and Information Science), TH Köln
+
+
+## Erfahrungen
+
+2014-2017: KGSP-Stipendiatin des National Institute for International Education (NIIED) der Republik Korea
+
+2014–2015: Besuch einer Koreanisch-Sprachschule in Busan im Rahmen des KGSP-Stipendiums
+
+2017: Freiwilligenarbeit für das Seongbuk-gu Community Center, Artist Assistant für Pow! Wow! Korea, Seoul (Republik Korea)
+
+2019: Vortrag für die Global Students Association an der Hankuk University of Foreign Studies, Seoul (Republik Korea)
+
+2019: Artist Assistant für Pow! Wow! Korea, Seoul (Republik Korea)
+
+2022: Vortrag für die interne Konferenz 
+
+
