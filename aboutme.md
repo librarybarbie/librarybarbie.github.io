@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mein Werdegang
-subtitle: Mit Neugier und Sprache auf der Suche nach Informationen und Wissen
+title: Über mich
+subtitle: Was mich geprägt hat
 ---
 
-## Karriere
+## Arbeit
 
 2017–2019: Marketing & PR Specialist für Videospiele
 
@@ -38,10 +38,10 @@ Seit März 2025: MALIS (Master in Library and Information Science), TH Köln
 
 2017: Freiwilligenarbeit für das Seongbuk-gu Community Center, Artist Assistant für Pow! Wow! Korea, Seoul (Republik Korea)
 
-2019: Vortrag für die Global Students Association an der Hankuk University of Foreign Studies, Seoul (Republik Korea)
+2019: Vortrag über das Arbeitsleben als Einwanderin in Südkorea für die Global Students Association an der Hankuk University of Foreign Studies, Seoul (Republik Korea)
 
 2019: Artist Assistant für Pow! Wow! Korea, Seoul (Republik Korea)
 
-2022: Vortrag für die interne Konferenz 
+2022: Vortrag über kulturelle Diversität am Arbeitsplatz für firmeninterne Konferenz 
 
 
